@@ -1,0 +1,17 @@
+7
+Verde 50 Nortaichian propio
+Amarillo 35 Reralopes enemigo
+Rojo 12 Radaiteran enemigo
+Celeste 30 Wrives aliado
+Azul 50 Radaiteran aliado
+Naranja 24 Wrives enemigo
+Violeta 6 Reralopes aliado
+Verde -> Violeta
+Verde Amarillo 5
+Amarillo Celeste 7
+Celeste Naranja 12
+Naranja Rojo 3
+Rojo Violeta 1
+Verde Azul 12
+Azul Naranja 13
+Naranja Violeta 2
